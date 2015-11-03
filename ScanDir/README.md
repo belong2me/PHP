@@ -1,6 +1,6 @@
 # Получение файлов в директории (или поддиректориях)
 
-## Использование
+### Использование
 
 $path = $_SERVER["DOCUMENT_ROOT"].'/img/projects/camp/ready/';
 $path =  substr($path, 0, strlen($path)-1); #!
